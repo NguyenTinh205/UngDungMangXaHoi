@@ -1,0 +1,3 @@
+package com.example.app.network.dto.auth.request
+
+data class UpdateProfileRequest(val username: String)
